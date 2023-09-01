@@ -1,0 +1,2 @@
+# freephish_browser_extension
+freephish_extension
