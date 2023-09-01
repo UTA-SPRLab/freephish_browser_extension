@@ -1,0 +1,22 @@
+{
+  "name": "sprlab_freephish_extension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/lryanle/sprlab_freephish_extension.git",
+  "keywords": [],
+  "author": "Ryan Le <31494954+lryanle@users.noreply.github.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lryanle/sprlab_freephish_extension/issues"
+  },
+  "homepage": "https://github.com/lryanle/sprlab_freephish_extension#readme",
+  "dependencies": {
+    "axios": "^1.2.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  }
+}

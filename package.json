@@ -1,0 +1,15 @@
+{
+    "name": "sprlab_freephish_extension",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/lryanle/sprlab_freephish_extension.git",
+    "author": "Ryan Le <31494954+lryanle@users.noreply.github.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "vercel dev",
+        "deploy": "vercel deploy --prod"
+    },
+    "devDependencies": {
+        "vercel": "^28.7.0"
+    }
+}
